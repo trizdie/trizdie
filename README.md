@@ -7,7 +7,7 @@ Show profile views
 </p> <br>
 
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
+<img align="left" src="profile_pic.jpg" width="300" /> 
 
 ```
 ♡ front-end developer   
@@ -21,7 +21,7 @@ Show profile views
 ۶۟ৎ : HTML ۶۟ৎ : CSS ۶۟ৎ : javascript & typescript
 
 ˚ʚ♡ɞ˚ UI and UX designer ˚ʚ♡ɞ˚
-˚ʚ♡ɞ˚ hobbies: draw | watch series | play videogames 
+˚ʚ♡ɞ˚ hobbies: draw | watch series | play videogames
 ˚ʚ♡ɞ˚
 profile projects & building still in progress. . .
 
