@@ -22,10 +22,7 @@ Show profile views
 
 ˚ʚ♡ɞ˚ UI and UX designer ˚ʚ♡ɞ˚
 ˚ʚ♡ɞ˚ hobbies: draw | watch series | play videogames
-˚ʚ♡ɞ˚
 profile projects & building still in progress. . .
-
-
 ```
 </p>
 
