@@ -7,7 +7,7 @@ Show profile views
 </p> <br>
 
 <p>
-<img align="left" src="profile_pic.jpg" width="300" /> 
+<img align="left" src="profile_picture.jpg" width="300" /> 
 
 ```
 ♡ front-end developer   
